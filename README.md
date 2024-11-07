@@ -1,4 +1,4 @@
 # BELAJAR-JAWA
-Aku mau 1 wanita Jawa
+Berisikan hasil latihan JAVA
 
 Thanks to - Kelas terbuka - sudah mengajarkanku Jawa
